@@ -1,6 +1,6 @@
 # Moonshot
 
-**APP**: Training project using SwiftUI
+**Description**: Training project using SwiftUI
 
 **Screens**:
 
